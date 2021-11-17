@@ -121,7 +121,7 @@ summary {
 /*# sourceMappingURL=/sm/b8ae781793ee4eb86edef3f2a2ac43a5575d063ed8cd287d7553f9f1b2776616.map */
 
 body {
-  color: #aaaaaa;
+  color: #fff;
   background: #000;
 }
 
@@ -132,12 +132,12 @@ ul {
 }
 
 a {
-  color: #aaaaaa;
+  color: #aaa;
 }
 
 a:hover {
   color: #fff;
-  text-shadow:rgba(255,255,255,.25) 0 0 2rem;
+  text-shadow: rgba(255, 255, 255, 0.25) 0 0 2rem;
 }
 
 .links-list li {
@@ -191,7 +191,7 @@ a:hover {
 
 .header .heading {
   margin: 0;
-  font-size: 1.5rem;  
+  font-size: 1.5rem;
 }
 
 .header .symbol {
@@ -209,8 +209,7 @@ a:hover {
 }
 
 .header > a:hover {
-  color: #aaaaaa;
-  text-shadow: none;
+  color: #fff;
 }
 
 .footer {
@@ -225,10 +224,6 @@ a:hover {
 .home,
 .about {
   text-align: center;
-}
-
-.home {
-  text-shadow: 1px 1px #000;
 }
 
 .home .heading {
