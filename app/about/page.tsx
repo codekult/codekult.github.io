@@ -28,7 +28,6 @@ export default function Home() {
             <b>MCP Servers</b>, <b>Agentic Workflows</b>, and{" "}
             <b>LLM Integration</b>.
           </p>
-          <h3 className="mb-3 text-xl font-mono">...</h3>
           <p className="mb-3">
             Operating remotely from the Sierras of Córdoba, Argentina.{" "}
             <b>High-Availability</b> & <b>Deep Focus</b> shape my work. When
