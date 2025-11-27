@@ -33,7 +33,7 @@ export default function Nav() {
           <a href="mailto:codekult@gmail.com">Contact</a>
         </NavListItem>
         <NavListItem>
-          <a href="/public/Diego_Calderon_Resume.pdf" download>
+          <a href="https://bit.ly/4roONtN" target="_blank">
             Resume
           </a>
         </NavListItem>
