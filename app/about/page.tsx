@@ -15,27 +15,19 @@ export default function Home() {
       <main>
         <article className="flex flex-col justify-center items-center mt-5">
           <p className="mb-3 text-center">
-            <b>Senior Full-Stack Engineer</b> with <b>+10 years</b> of
-            experience delivering complex user-centric web systems at scale.
-            Expert in bridging the gap between <b>Product</b> and{" "}
-            <b>Platform</b> engineering to build resilient, high- availability
-            solutions for global industry leaders and ambitious startups
+            I&apos;m a <b>Product-minded Senior Software Engineer</b> focused on
+            building systems that <b>ship faster</b> and <b>convert better</b>.
           </p>
           <p className="mb-3 text-center">
-            <b>Currently exploring</b> how to leverage my extensive expertise in
-            distributed systems and performance optimization to build
-            production-grade <b>Applied AI</b> solutions, specializing in{" "}
-            <b>MCP Servers</b>, <b>Agentic Workflows</b>, and{" "}
-            <b>LLM Integration</b>.
+            I am a constant student of how things work and how they connect.
+            <br />
+            From the logic of distributed systems to the structure of an orchard
+            or a Neofolk composition,
+            <br />I approach every new challenge with curiosity and a commitment
+            to craft.
           </p>
           <p className="mb-3 text-center">
-            Operating remotely from the Sierras of Córdoba, Argentina.{" "}
-            <b>High-Availability</b> & <b>Deep Focus</b> shape my work. When
-            AFK, I embrace a low-tech, digital minimalist, outdoor enthusiast
-            lifestyle.
-          </p>
-          <p className="text-center">
-            <b>Dark Mode</b> always <b>On</b>.
+            Operating remotely from the Sierras of Córdoba, Argentina.
           </p>
         </article>
       </main>
