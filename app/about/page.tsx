@@ -15,14 +15,10 @@ export default function Home() {
       <main>
         <article className="flex flex-col justify-center items-center mt-5">
           <p className="mb-3 text-center">
-            I&apos;m a <b>Product-minded Senior Software Engineer</b> focused on
-            building systems that <b>ship faster</b> and <b>convert better</b>.
-          </p>
-          <p className="mb-3 text-center">
             I am a constant student of how things work and how they connect.
             <br />
             From the logic of distributed systems to the structure of an orchard
-            or a Neofolk composition,
+            or a song composition,
             <br />I approach every new challenge with curiosity and a commitment
             to craft.
           </p>
